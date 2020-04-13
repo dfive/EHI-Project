@@ -1,5 +1,7 @@
 # EHI-Project
 
+Python Version: 3.0 or Above.
+
 Following is the list of python packages to install: 
 
 1. pandas
